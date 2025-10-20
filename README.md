@@ -1,16 +1,24 @@
-## Hi there 👋
+# 👋 Hi, I'm Tri Wanto
 
-<!--
-**Iwannnwn/Iwannnwn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Data Scientist | Data Analyst | Graphic Design Enthusiast**
 
-Here are some ideas to get you started:
+Welcome to my GitHub profile!  
+I'm passionate about turning data into actionable insights and creating visually compelling graphics.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🔧 Skills
+- **Programming:** Python, Java
+- **Data Science & Analysis:** Machine learning, data visualization, statistical analysis
+- **Graphic Design:** Enthusiast in digital art and creative visualization
+
+---
+
+### 🌐 Connect with Me
+- [LinkedIn](https://www.linkedin.com/in/tri-wanto-1b6b81270/)
+- [Personal Website](https://iwanwann.vercel.app)
+- [Instagram](https://www.instagram.com/_iwantri13/)
+
+---
+
+Let's collaborate on innovative data projects and design ideas!
