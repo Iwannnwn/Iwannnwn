@@ -1,24 +1,33 @@
-# 👋 Hi, I'm Tri Wanto
-
-**Data Scientist | Data Analyst | Graphic Design Enthusiast**
-
-Welcome to my GitHub profile!  
-I'm passionate about turning data into actionable insights and creating visually compelling graphics.
+# 👋 Hi, I'm **Tri Wanto**  
+🎯 *Data Scientist · Data Analyst · Creative Technologist*
 
 ---
 
-### 🔧 Skills
-- **Programming:** Python, Java
-- **Data Science & Analysis:** Machine learning, data visualization, statistical analysis
-- **Graphic Design:** Enthusiast in digital art and creative visualization
+### 💡 About Me  
+I’m passionate about **transforming data into insights** and **insights into impact**.  
+With a strong foundation in **data science** and a creative touch in **graphic design**, I love building projects that bridge **analytical precision** and **visual storytelling**.
 
 ---
 
-### 🌐 Connect with Me
-- [LinkedIn](https://www.linkedin.com/in/tri-wanto-1b6b81270/)
-- [Personal Website](https://iwanwann.vercel.app)
-- [Instagram](https://www.instagram.com/_iwantri13/)
+### 🧠 What I Do
+- 🧩 **Data Science & Analytics:** Machine learning, forecasting, and exploratory data analysis (EDA)  
+- 📊 **Visualization & Insights:** Turning complex data into clear and compelling visuals  
+- 🎨 **Design & Creativity:** Exploring digital art, UI/UX, and visual storytelling  
 
 ---
 
-Let's collaborate on innovative data projects and design ideas!
+### ⚙️ Tech Stack
+**Languages:** Python, Java  
+**Libraries:** Pandas, Scikit-Learn, Matplotlib, TensorFlow, SQL  
+**Design Tools:** Figma, Illustrator, Photoshop, Canva  
+
+---
+
+### 🌍 Connect with Me
+🌐 [**Portfolio Website**](https://iwanwann.vercel.app)  
+💼 [**LinkedIn**](https://www.linkedin.com/in/tri-wanto-1b6b81270/)  
+📸 [**Instagram**](https://www.instagram.com/_iwantri13/)  
+
+---
+
+> ✨ *“Where logic meets creativity — I analyze, build, and visualize ideas that matter.”*
