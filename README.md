@@ -24,7 +24,7 @@ With a strong foundation in **data science** and a creative touch in **graphic d
 ---
 
 ### 🌍 Connect with Me
-🌐 [**Portfolio Website**](https://iwanwann.vercel.app)  
+🌐 [**Portfolio Website**](https://iwannnwnwebsite.vercel.app/)  
 💼 [**LinkedIn**](https://www.linkedin.com/in/tri-wanto-1b6b81270/)  
 📸 [**Instagram**](https://www.instagram.com/_iwantri13/)  
 
