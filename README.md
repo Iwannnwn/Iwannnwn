@@ -1,4 +1,4 @@
-# 👋 Hi, I'm **Tri Wanto**  
+# 👋 Hi, I'm **Iwan**  
 🎯 *Data Scientist · Data Analyst · Creative Technologist*
 
 ---
