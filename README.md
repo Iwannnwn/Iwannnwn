@@ -68,69 +68,24 @@ I’m passionate about **data analysis, machine learning, and deep learning**, u
 
 ---
 
-## 🔬 Featured Projects
-
-### 📈 LSTM-Based Demand Forecasting for Mixtro Products
-
-> **PT Petrokimia Gresik**
-
-Developed an LSTM-based demand forecasting model to predict Mixtro product demand from historical sales data.
-
-**Stack:** `Python` · `Pandas` · `TensorFlow` · `LSTM` · `Excel`
-
----
-
-### ⚙️ Early Warning System for Chattering in Milling Machines
-
-> **SIT Lab · Japan**
-
-Developed an early warning system for milling machine chattering using time-series sensor data, applying data analysis and machine learning to detect vibration patterns and identify potential chatter conditions.
-
-**Models:** `Random Forest` · `XGBoost` · `LSTM`
-
-🏆 **3rd Place — GPbL Data Science 2025**
-Collaborated with students from Japan, Indonesia, Thailand, Malaysia, and Uzbekistan.
-
----
-
-### 🕵️ Fraud Detection in Transaction Data
-
-> **Risk Analyst Project**
-
-Developed a **machine learning-based fraud detection model** to identify suspicious transactions and support transaction risk analysis.
-
-**Focus:** `Fraud Detection` · `Machine Learning` · `Risk Analysis`
-
-[![View Repository](https://img.shields.io/badge/View_Repository-100000?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/Iwannnwn/FraudDetection.git)
-
----
-
-## 💼 Experience
-
-### 📊 Data Analyst Intern — PT Petrokimia Gresik
-
-**July 2025 – August 2025**
-
-Applied Python and Excel for data preprocessing and sales analytics, using VLOOKUP, Pivot Tables, data validation, and sorting to identify patterns and ensure transaction accuracy.
-
-Developed an **LSTM-based demand forecasting model** using Python to predict Mixtro product demand and utilized **SAP Enterprise System** for sales processing, invoice verification, financial reconciliation, and warehouse documentation.
-
----
-
 ## 🎓 Education
-
-### Institut Teknologi Sepuluh Nopember — ITS
-
-**Bachelor Degree in Mathematics**
-Faculty of Science and Data Analytics · **2022 – 2026**
-
-🎓 GPA: **3.73 / 4.00**
-
----
 
 <div align="center">
 
+### **Institut Teknologi Sepuluh Nopember — ITS**
+
+**Bachelor Degree in Mathematics**  
+Faculty of Science and Data Analytics
+
+🎓 **GPA: 3.73 / 4.00** &nbsp; · &nbsp; 📅 **2022 – 2026**
+
+</div>
+
+---
+
 ## 📚 Training & Courses
+
+<div align="center">
 
 | Course | Institution |
 |:---:|:---:|
